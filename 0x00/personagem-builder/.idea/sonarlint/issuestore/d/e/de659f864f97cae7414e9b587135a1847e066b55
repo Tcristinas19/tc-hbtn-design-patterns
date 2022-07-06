@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+i
+java:S1450"SRemove the "tipo" field and declare it as a local variable in the relevant methods.(ÌÏÆ§
+>
+java:S1068"(Remove this unused "tipo" private field.(ÌÏÆ§
